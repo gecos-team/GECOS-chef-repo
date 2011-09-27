@@ -1,0 +1,5 @@
+{
+  "id": "tecnicos",
+  "instalar": "[joe,vim]",
+  "eliminar": "[nano, xmoto]"
+}

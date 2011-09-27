@@ -1,0 +1,5 @@
+{
+  "id": "administrativos",
+  "instalar": "[pdfeditor]",
+  "eliminar": "[nano, xmoto]"
+}

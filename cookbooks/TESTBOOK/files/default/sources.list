@@ -1,0 +1,15 @@
+# 
+
+# deb cdrom:[Debian GNU/Linux 6.0.2.1 _Squeeze_ - Official i386 NETINST Binary-1 20110628-13:01]/ squeeze main
+
+#deb cdrom:[Debian GNU/Linux 6.0.2.1 _Squeeze_ - Official i386 NETINST Binary-1 20110628-13:01]/ squeeze main
+
+deb http://ftp.cica.es/debian/ squeeze main
+deb-src http://ftp.cica.es/debian/ squeeze main
+
+deb http://security.debian.org/ squeeze/updates main
+deb-src http://security.debian.org/ squeeze/updates main
+
+# squeeze-updates, previously known as 'volatile'
+deb http://ftp.cica.es/debian/ squeeze-updates main
+deb-src http://ftp.cica.es/debian/ squeeze-updates main
